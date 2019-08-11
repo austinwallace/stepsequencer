@@ -1,0 +1,30 @@
+{
+  "name": "step-sequencer-with-react",
+  "version": "1.0.0",
+  "description": "Step sequender with react. Drum machine.",
+  "keywords": [
+    "drum machine",
+    "step sequencer"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "polished": "3.4.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.1.5",
+    "styled-components": "4.2.1",
+    "tone": "13.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
